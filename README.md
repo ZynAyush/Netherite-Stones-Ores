@@ -1,32 +1,27 @@
 # Netherite Stones & Ores
 
-A Minecraft Java resource pack that replaces stone and ore appearances with Netherite Block textures for a consistent visual look.
+A Minecraft Java resource pack that replaces stone and ore textures with Netherite Block textures for a uniform visual appearance.
+
+## Latest Modrinth release
+
+- Version: **1.1** (published 2026-11-01)
+- File: `releases/1.1/Netherite Ores 26.3.zip`
+- Supports Minecraft Java versions listed on [Modrinth](https://modrinth.com/resourcepack/netherite-stones-ores/versions).
 
 ## Features
 
-- Replaces supported stone block appearances.
-- Replaces supported ore block appearances.
-- Uses a consistent Netherite Block visual style.
-- Lightweight, client-side resource-pack changes.
-
-## Compatibility
-
-Check the [Modrinth versions page](https://modrinth.com/mod/netherite-stones-ores/versions) for the exact Minecraft versions supported by each release.
-
-## Download
-
-Official releases are published on [Modrinth — Netherite Stones & Ores](https://modrinth.com/mod/netherite-stones-ores).
+- Replaces supported stone and ore appearances with Netherite Block textures.
+- Gives affected blocks a uniform look.
+- Client-side visual changes; does not modify server-side block data or world generation.
 
 ## Installation
 
-1. Download a release ZIP from Modrinth.
-2. Place it in your Minecraft `resourcepacks` folder.
-3. Enable it under **Options → Resource Packs**.
+Download the ZIP from this repository or [Modrinth](https://modrinth.com/resourcepack/netherite-stones-ores), then place it in `.minecraft/resourcepacks` and enable it in Minecraft's Resource Packs settings.
 
-## Repository contents
+## Release provenance
 
-This repository currently contains project documentation only. The original editable source files and release ZIPs were not available in the files accessible during repository setup, so no binary release has been represented as source code.
+The ZIP in `releases/` is the official published Modrinth release, downloaded directly from Modrinth and verified against its published SHA-1 and SHA-512 hashes. See [MODRINTH_RELEASES.md](MODRINTH_RELEASES.md). This is a release artifact, not the editable source project.
 
 ## License
 
-The Modrinth project is marked **ARR (All Rights Reserved)**. This repository does not grant permission to redistribute or modify the pack. Refer to the [official Modrinth project page](https://modrinth.com/mod/netherite-stones-ores) for the current terms.
+Modrinth lists this project as **All Rights Reserved (ARR)**. No license to reuse, modify, or redistribute the pack is granted by this repository.
