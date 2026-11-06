@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Changes Stones and Ores to Block of Netherite, Pack by ZynAyush",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  }
+}
